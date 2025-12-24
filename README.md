@@ -32,6 +32,7 @@ I am a dedicated IT professional passionate about securing digital environments 
 ---
 
 ## 🛠️ Tech Stack & Tools
+* **Scripting:** Python, Bash, PowerShell.
 * **Forensics:** FTK Imager, Autopsy, Wireshark, Volatility.
 * **Security:** Nmap, Metasploit, Burp Suite, Snort.
 * **OS/Networking:** Windows Server, Linux (Kali, Ubuntu), Active Directory, TCP/IP.
