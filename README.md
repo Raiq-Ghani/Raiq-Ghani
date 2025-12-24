@@ -10,16 +10,16 @@ I am a dedicated IT professional passionate about securing digital environments 
 ## 🎓 University Projects (BSc Cybersecurity & Digital Forensics)
 *Showcasing my academic foundation and specialized research.*
 
-* **[Project Title 1]**: A deep dive into [Topic, e.g., Malware Analysis]. Used tools like [Tool A, Tool B].
-* **[Project Title 2]**: Dissertation focused on [Topic]. Achieved [Grade/Result].
-* **[Lab Exercise Name]**: Investigating [Scenario] using EnCase/FTK Imager.
+* **Final Year Project - Phishing...**: ....
+* **Splunk - Case Study (SOC Analyst)**: ....
+* **...**: ....
 
 ## 🏠 Home Learning & Labs
 *My journey of continuous improvement and self-taught skills.*
 
-* **TryHackMe / HackTheBox**: Currently ranked in the top [%] or focusing on the [Name] path.
-* **Home Lab**: Set up a virtualized environment using **Proxmox/VirtualBox** to practice network monitoring and firewall configuration.
-* **Certifications**: Currently studying for [e.g., CompTIA Security+ / Cisco CCNA].
+* **Wireshark**: ....
+* **Home Lab**: .....
+* **Penetration Testing**: ....
 
 ## 🤝 Volunteering & Professional Experience
 *Hands-on experience in 1st Line Support.*
