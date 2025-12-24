@@ -1,4 +1,7 @@
 # Hi, I'm Raiq Ghani 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiqghani)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiqghani03@gmail.com)
+
 
 ### Cybersecurity & Digital Forensics Professional
 **1st Class Honours Degree Graduate**
